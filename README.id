@@ -1,0 +1,27 @@
+OVERVIEW
+A component card for CHANEL perfume
+
+THE CHALLENGE
+Create a responsive component card using html and css
+
+LINKS
+
+
+MY PROCESS 
+I used the flex layout to place the boxes side by side, i wrote the skeleton of the
+code with html and then i styled it with CSS and also made it responsive using media queries.
+
+BUILT WITH
+Html & CSS
+
+WHAT I LEARNED
+1. To use background-size of cover while using flexbox to make your image have the correct positioning it should have
+2. Use percentage to measure width and rem to measure paddimg, fonts and margin for a better responsiveness.
+
+USEFUL RESOURCES
+*Google (stack overflow)
+
+AUTHOR
+Jinadu Rasheedat Ikeoluwa
+
+
